@@ -28,7 +28,7 @@ export default function Contact() {
             label="GitHub"
             value="github.com/esperandakponou"
             icon="💻"
-            link="https://github.com/esperandakponou"
+            link="https://github.com/Esperanda"
           />
           <ContactItem
             label="LinkedIn"
