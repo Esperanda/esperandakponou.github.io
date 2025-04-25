@@ -15,12 +15,6 @@ export default function Home() {
         </p>
         <div className="flex justify-center gap-6 mt-8">
           <a
-            href="/projects"
-            className="bg-blue-500 hover:bg-blue-600 text-white font-medium py-3 px-8 rounded-full shadow-md transition"
-          >
-            Voir mes projets
-          </a>
-          <a
             href="/pella kponou.pdf"
             target="_blank"
             rel="noopener noreferrer"

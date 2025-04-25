@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && git add dist && git commit -m 'déploiement' && git subtree push --prefix dist origin gh-pages"
+    "deploy": "npm run build && git add . && git commit -m 'update' && git subtree push --prefix dist origin gh-pages"
+
   },
   
   
