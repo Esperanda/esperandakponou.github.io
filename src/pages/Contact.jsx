@@ -34,7 +34,7 @@ export default function Contact() {
             label="LinkedIn"
             value="linkedin.com/in/esperandakponou"
             icon="🔗"
-            link="https://linkedin.com/in/esperandakponou"
+            link="https://www.linkedin.com/in/esperanda-kponou-406369251"
           />
           <ContactItem
             label="Télécharger mon CV"

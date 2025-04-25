@@ -23,12 +23,12 @@ export default function Home() {
           performance et sécurité pour un web meilleur.
         </p>
         <div className="flex justify-center gap-6 mt-8">
-        <Link
-            to="/projects"
+          <a
+            href="/projects"
             className="bg-blue-500 hover:bg-blue-600 text-white font-medium py-3 px-8 rounded-full shadow-md transition"
           >
             Voir mes projets
-          </Link>
+          </a>
           <a
             href="/pella%20kponou.pdf"
             target="_blank"
