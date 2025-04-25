@@ -5,7 +5,7 @@ export default function About() {
         {/* Photo */}
         <div className="flex justify-center">
           <img
-            src="/ma photo.jpg"
+            src="/ma%20photo.jpg"
             alt="Espéranda Kponou"
             className="w-48 h-48 sm:w-60 sm:h-60 md:w-64 md:h-64 object-cover rounded-full shadow-xl border-4 border-blue-500"
           />
@@ -34,7 +34,7 @@ export default function About() {
           </p>
 
           <a
-            href="/pella kponou.pdf"
+           href="/pella%20kponou.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-6 rounded-full shadow transition"

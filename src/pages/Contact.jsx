@@ -40,7 +40,7 @@ export default function Contact() {
             label="Télécharger mon CV"
             value="pellakponou.pdf"
             icon="📄"
-            link="/pellakponou.pdf"
+            link="/pella%20kponou.pdf"
           />
         </div>
 
