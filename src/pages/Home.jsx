@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
+import { link } from 'react-router-dom';
 
 export default function Home() {
   const navigate = useNavigate();
@@ -23,12 +24,12 @@ export default function Home() {
           performance et sécurité pour un web meilleur.
         </p>
         <div className="flex justify-center gap-6 mt-8">
-          <a
-            href="/projects"
+          <Link
+            to="/projects"
             className="bg-blue-500 hover:bg-blue-600 text-white font-medium py-3 px-8 rounded-full shadow-md transition"
           >
             Voir mes projets
-          </a>
+          </Link>
           <a
             href="/pella%20kponou.pdf"
             target="_blank"
