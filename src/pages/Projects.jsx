@@ -27,7 +27,7 @@ export default function Projects() {
           />
           <ProjectCard
             title="Forum 10 000 Codeurs – Adjarra"
-            description="Responsable des données pour l'organisation du 3e forum : collecte, structuration et analyse des informations clés."
+            description="Responsable de la communication pour l’organisation du 3ᵉ Forum 10 000 Codeurs à Adjarra : coordination de la diffusion des informations clés, création de supports de communication, gestion des canaux numériques et interactions avec les participants.."
             status="En cours"
           />
           <ProjectCard
